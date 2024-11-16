@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# 🚀 DeFi Expertise
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Welcome! This repository highlights my experience and contributions in the **DeFi** ecosystem. With a strong background in smart contracts, decentralized protocols, and blockchain security, I’ve worked on various projects to build innovative financial solutions.
 
-Try running some of the following tasks:
+---
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## 🌟 Skills Overview
+- **Smart Contracts**: Solidity, Vyper, ERC standards.
+- **DEXs & AMMs**: Liquidity pools, yield optimization, cross-chain solutions.
+- **Lending Protocols**: Over-collateralized loans, liquidation mechanisms.
+- **Security**: Smart contract auditing, reentrancy protection, oracle integration.
